@@ -1,0 +1,28 @@
+[
+    {
+        "postId": 1,
+        "postAuthor": "Jon",
+        "postBody": "First Post",
+        "datePosted": "2020-10-15T15:56:18.958Z"
+    },
+    {
+        "postId": 2,
+        "postAuthor": "Ronnie",
+        "postBody": "Hello, I would like help with homework please. It's tough stuff.",
+        "datePosted": "2020-10-19T15:56:55.439Z" 
+    },
+    {
+        "postId": 3,
+        "postAuthor": "Amanda",
+        "postBody": "Help with homework 4, problem 8 would be nice..",
+        "datePosted": "2020-10-20T15:58:45.520Z"
+    },
+    {
+        "postId": 4,
+        "postAuthor": "Ricky",
+        "postBody": "I'm droppping out",
+        "datePosted": "2020-10-20T15:58:45.520Z"
+    }
+]
+
+    

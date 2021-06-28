@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="130b6e57-3d9f-4667-a29f-ae215d460c5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/CommentCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CommentForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/api/comment.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/api/comment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Comments.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Comments.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iCqUpl752TTMgK0K9Wp0zGodsP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="130b6e57-3d9f-4667-a29f-ae215d460c5b" name="Default Changelist" comment="" />
+      <created>1601421940115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601421940115</updated>
+      <workItem from="1601421941183" duration="3327000" />
+      <workItem from="1601439264246" duration="969000" />
+      <workItem from="1601440431166" duration="120000" />
+      <workItem from="1601441047448" duration="98000" />
+      <workItem from="1601442594651" duration="2038000" />
+      <workItem from="1601604048559" duration="5828000" />
+      <workItem from="1601763522256" duration="803000" />
+      <workItem from="1601766562113" duration="44057000" />
+      <workItem from="1601908192880" duration="40000" />
+      <workItem from="1602803362219" duration="86000" />
+      <workItem from="1602803576420" duration="12960000" />
+      <workItem from="1602860307586" duration="1219000" />
+      <workItem from="1603252032773" duration="4543000" />
+      <workItem from="1603295859233" duration="21564000" />
+      <workItem from="1603382610195" duration="5262000" />
+      <workItem from="1603463286493" duration="31000" />
+      <workItem from="1603463328450" duration="105000" />
+      <workItem from="1603463496142" duration="3332000" />
+      <workItem from="1603563585407" duration="72000" />
+      <workItem from="1603578968891" duration="2145000" />
+      <workItem from="1603943279413" duration="4082000" />
+      <workItem from="1603948947848" duration="248000" />
+      <workItem from="1603949262457" duration="455000" />
+      <workItem from="1603985768468" duration="155000" />
+      <workItem from="1604006572679" duration="133000" />
+      <workItem from="1604068419014" duration="1221000" />
+      <workItem from="1604093193364" duration="10000" />
+      <workItem from="1604536664135" duration="8279000" />
+    </task>
+    <task id="LOCAL-00001" summary="added post comment box">
+      <created>1603949150546</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603949150546</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added post comment box" />
+    <option name="LAST_COMMIT_MESSAGE" value="added post comment box" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602805101549">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602805101549" />
+    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1603949149811">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1603949149811" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1603581387064">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603581387064" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1603562203753">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603562203753" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1603562203752">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1603562203752" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1603562203752">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1603562203752" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1603562203752">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1603562203752" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1603949161085">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603949161085" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603949086303">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1603949086303" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1601840031497">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1601840031497" />
+  </component>
+</project>
